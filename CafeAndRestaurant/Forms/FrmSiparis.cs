@@ -193,6 +193,7 @@ namespace CafeAndRestaurant.Forms
                     if (k.Masa == _btn.Name)
                         k.MasaSiparisBilgisi = new List<SiparisDetay>(siparisDetaylari1);   
                 }
+                
             }
             _btn.BackColor = Color.Green;   
             //this.Hide();

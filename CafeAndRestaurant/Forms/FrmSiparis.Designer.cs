@@ -257,7 +257,7 @@
             this.btnAdisyonKapat.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.btnAdisyonKapat.Size = new System.Drawing.Size(1753, 101);
             this.btnAdisyonKapat.TabIndex = 4;
-            this.btnAdisyonKapat.Text = "YAZDIR";
+            this.btnAdisyonKapat.Text = "HESAP";
             this.btnAdisyonKapat.UseVisualStyleBackColor = false;
             this.btnAdisyonKapat.Click += new System.EventHandler(this.btnAdisyonKapat_Click_1);
             // 

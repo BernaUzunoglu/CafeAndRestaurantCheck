@@ -154,7 +154,7 @@ namespace CafeAndRestaurant
             StreamReader reader = new StreamReader(fileStream);
             string dosyaÝcerigi = reader.ReadToEnd();
             urunler = JsonConvert.DeserializeObject<List<Urun>>(dosyaÝcerigi);
-            MessageBox.Show($"{urunler.Count}adert kiþi içeri aktarýldý");
+            MessageBox.Show($"{urunler.Count}adet ürün içeri aktarýldý");
             reader.Close();
             lstUrunler.Items.Clear();
 
@@ -239,7 +239,7 @@ namespace CafeAndRestaurant
                 writer.Write(JsonConvert.SerializeObject(urunler, Formatting.Indented));
                 writer.Close();
                 writer.Dispose();
-                MessageBox.Show($"{urunler.Count}adert kiþi dýþarý aktarýldý");
+                MessageBox.Show($"{urunler.Count}adet ürün dýþarý aktarýldý");
             }
         }
 
