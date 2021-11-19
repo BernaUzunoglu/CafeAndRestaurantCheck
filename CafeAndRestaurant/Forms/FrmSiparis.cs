@@ -191,11 +191,16 @@ namespace CafeAndRestaurant.Forms
                 foreach (var k in item.Value)
                 {
                     if (k.Masa == _btn.Name)
-                        k.MasaSiparisBilgisi = new List<SiparisDetay>(siparisDetaylari1);   
+                    {
+                        k.MasaSiparisBilgisi = new List<SiparisDetay>(siparisDetaylari1);
+                        k.Durum = SiparisDurum.Pasif;
+                        _btn.BackColor = Color.Green;
+                    }
+                           
                 }
                 
             }
-            _btn.BackColor = Color.Green;   
+               
             //this.Hide();
             this.Close();
         }

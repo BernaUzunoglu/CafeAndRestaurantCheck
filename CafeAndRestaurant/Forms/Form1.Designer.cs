@@ -57,6 +57,8 @@
             this.veriTabanıToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.checkedListBox1 = new System.Windows.Forms.CheckedListBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
             this.pnlCombolar = new System.Windows.Forms.Panel();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pbResim)).BeginInit();
@@ -404,6 +406,8 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.White;
+            this.panel1.Controls.Add(this.label6);
+            this.panel1.Controls.Add(this.label5);
             this.panel1.Controls.Add(this.pnlCombolar);
             this.panel1.Controls.Add(this.checkedListBox1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
@@ -411,6 +415,30 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(416, 694);
             this.panel1.TabIndex = 3;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.BackColor = System.Drawing.Color.White;
+            this.label6.Font = new System.Drawing.Font("Lucida Calligraphy", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label6.ForeColor = System.Drawing.Color.Chocolate;
+            this.label6.Location = new System.Drawing.Point(0, 553);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(370, 52);
+            this.label6.TabIndex = 14;
+            this.label6.Text = "RESTAURANT";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.BackColor = System.Drawing.Color.White;
+            this.label5.Font = new System.Drawing.Font("Lucida Calligraphy", 25.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label5.ForeColor = System.Drawing.Color.Chocolate;
+            this.label5.Location = new System.Drawing.Point(83, 488);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(184, 57);
+            this.label5.TabIndex = 13;
+            this.label5.Text = "CAFE ";
             // 
             // pnlCombolar
             // 
@@ -451,6 +479,7 @@
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             this.pnlCombolar.ResumeLayout(false);
             this.ResumeLayout(false);
 
@@ -492,5 +521,7 @@
         private Panel panel1;
         private Panel pnlCombolar;
         private ToolStripMenuItem veriTabanıToolStripMenuItem;
+        private Label label6;
+        private Label label5;
     }
 }
