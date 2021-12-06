@@ -25,21 +25,21 @@ namespace CafeAndRestaurant.Forms
 
         private void btnBack1_Click(object sender, EventArgs e)
         {
-            FrmIlk frmIlk = new FrmIlk();
+            FrmKurulum frmIlk = new FrmKurulum();
             frmIlk.Show();
             this.Hide();
         }
 
         private void btnBack1_Click_1(object sender, EventArgs e)
         {
-            FrmIlk frmIlk = new FrmIlk();
+            FrmKurulum frmIlk = new FrmKurulum();
             frmIlk.Show();
             this.Hide();
         }
 
         private void btnBack1_Click_2(object sender, EventArgs e)
         {
-            FrmIlk frmIlk = new FrmIlk();
+            FrmKurulum frmIlk = new FrmKurulum();
             frmIlk.Show();
             this.Hide();
         }

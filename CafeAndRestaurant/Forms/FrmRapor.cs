@@ -26,7 +26,7 @@ namespace CafeAndRestaurant.Forms
         }
         private void brnGunRapor_Click(object sender, EventArgs e)
         {
-            var path2 = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "/Siparis.json";
+            var path2 = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "/CafeAndRestaurantCheck/Siparis.json";
 
             FileStream fileStream = new FileStream(path2, FileMode.Open);
             StreamReader reader = new StreamReader(fileStream);
@@ -49,7 +49,7 @@ namespace CafeAndRestaurant.Forms
 
         private void button2_Click(object sender, EventArgs e)
         {
-            var path2 = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "/Siparis.json";
+            var path2 = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "/CafeAndRestaurantCheck/Siparis.json";
 
             FileStream fileStream = new FileStream(path2, FileMode.Open);
             StreamReader reader = new StreamReader(fileStream);

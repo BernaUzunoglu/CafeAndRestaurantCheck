@@ -15,7 +15,7 @@ namespace CafeAndRestaurant.Lib.Concrete
         //  //Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "/KisiEnvanteri/db.json";
         //  "C:/KisiEnvanteri/db.json";
         
-        private static string _path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + $"/Menuler/Deneme.json";
+        private static string _path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + $"/CafeAndRestaurantCheck/Menuler/Deneme.json";
         public static List<Urun> Urunler { get; set; } = new List<Urun>();
 
         public static void Load()
@@ -38,7 +38,7 @@ namespace CafeAndRestaurant.Lib.Concrete
             }
             else
             {
-                Directory.CreateDirectory("C:/Menuler/");
+                Directory.CreateDirectory("C:/CafeAndRestaurantCheck/Menuler/");
             }
         }
         public static void Save()

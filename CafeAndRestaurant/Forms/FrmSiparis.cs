@@ -31,7 +31,7 @@ namespace CafeAndRestaurant.Forms
         public void JsonConverter(string menuIsmi)
         {
             //var path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + $"/Menuler/{menuIsmi}.json";
-            var path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + $"/Menuler/VeriTabanı.json";
+            var path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + $"/CafeAndRestaurantCheck/Menuler/VeriTabanı.json";
             StreamReader fileJson = new StreamReader(path);
             string dosyaİcerigi = fileJson.ReadToEnd();
             menuler = JsonConvert.DeserializeObject<List<Menu>>(dosyaİcerigi);
@@ -130,7 +130,7 @@ namespace CafeAndRestaurant.Forms
             this.siparisDetaylari = Context.SiparisDetaylari;
 
 
-            var path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + $"/MenuAD";
+            var path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + $"/CafeAndRestaurantCheck/MenuAD";
             // var path = @"C:\Users\win10\Desktop\MenuAD";
             var resim = Directory.GetFiles(path, "*.*", SearchOption.AllDirectories)
                                 .Where(x => new string[] { ".bmp", ".jpg", ".png" }

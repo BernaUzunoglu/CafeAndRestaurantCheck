@@ -1,0 +1,512 @@
+[
+  {
+    "SiparisTarihi": "2021-11-17T23:24:41.9573399+03:00",
+    "UrunAd": "Palamut",
+    "Fiyat": "52",
+    "Tutar": "52"
+  },
+  {
+    "SiparisTarihi": "2021-11-17T23:57:30.515042+03:00",
+    "UrunAd": "Urla Ezme",
+    "Fiyat": "20",
+    "Tutar": "20"
+  },
+  {
+    "SiparisTarihi": "2021-11-17T23:57:31.0655738+03:00",
+    "UrunAd": "Haydari",
+    "Fiyat": "21",
+    "Tutar": "41"
+  },
+  {
+    "SiparisTarihi": "2021-11-17T23:57:31.7373389+03:00",
+    "UrunAd": "Zeytinyağlı Yaprak Sarma",
+    "Fiyat": "17",
+    "Tutar": "58"
+  },
+  {
+    "SiparisTarihi": "2021-11-17T23:57:32.3936364+03:00",
+    "UrunAd": "Pazı Kavurma",
+    "Fiyat": "20",
+    "Tutar": "78"
+  },
+  {
+    "SiparisTarihi": "2021-11-17T23:59:20.3153591+03:00",
+    "UrunAd": "Somon",
+    "Fiyat": "65",
+    "Tutar": "65"
+  },
+  {
+    "SiparisTarihi": "2021-11-17T23:59:22.9133543+03:00",
+    "UrunAd": "Gözleme",
+    "Fiyat": "21",
+    "Tutar": "86"
+  },
+  {
+    "SiparisTarihi": "2021-11-17T23:59:25.1860615+03:00",
+    "UrunAd": "Çıtır Tavuk Burger",
+    "Fiyat": "28",
+    "Tutar": "114"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T01:32:39.6308077+03:00",
+    "UrunAd": "Somon",
+    "Fiyat": "65",
+    "Tutar": "65"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T01:32:40.0064142+03:00",
+    "UrunAd": "Palamut",
+    "Fiyat": "52",
+    "Tutar": "117"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T01:32:40.373179+03:00",
+    "UrunAd": "Mezgit",
+    "Fiyat": "85",
+    "Tutar": "202"
+  },
+  {
+    "SiparisTarihi": "2021-10-19T02:25:58.2413282+03:00",
+    "UrunAd": "Somon",
+    "Fiyat": "65",
+    "Tutar": "65"
+  },
+  {
+    "SiparisTarihi": "2021-10-19T02:25:58.6937566+03:00",
+    "UrunAd": "Palamut",
+    "Fiyat": "52",
+    "Tutar": "117"
+  },
+  {
+    "SiparisTarihi": "2021-10-19T02:25:59.2130726+03:00",
+    "UrunAd": "Mezgit",
+    "Fiyat": "85",
+    "Tutar": "202"
+  },
+  {
+    "SiparisTarihi": "2021-10-19T02:25:59.6129201+03:00",
+    "UrunAd": "Balık Şiş",
+    "Fiyat": "40",
+    "Tutar": "242"
+  },
+  {
+    "SiparisTarihi": "2021-10-19T02:26:00.2128791+03:00",
+    "UrunAd": "Çipura",
+    "Fiyat": "70",
+    "Tutar": "312"
+  },
+  {
+    "SiparisTarihi": "2021-10-19T02:26:01.9412459+03:00",
+    "UrunAd": "Karışık Mantarlı Pizza",
+    "Fiyat": "42",
+    "Tutar": "354"
+  },
+  {
+    "SiparisTarihi": "2021-10-19T02:26:03.0544721+03:00",
+    "UrunAd": "Klasik Pizza",
+    "Fiyat": "32",
+    "Tutar": "386"
+  },
+  {
+    "SiparisTarihi": "2021-10-19T02:26:03.8051452+03:00",
+    "UrunAd": "The House Burger",
+    "Fiyat": "31",
+    "Tutar": "417"
+  },
+  {
+    "SiparisTarihi": "2021-10-19T02:26:04.2451491+03:00",
+    "UrunAd": "Çıtır Tavuk Burger",
+    "Fiyat": "28",
+    "Tutar": "445"
+  },
+  {
+    "SiparisTarihi": "2021-10-19T02:26:07.764854+03:00",
+    "UrunAd": "Omlet",
+    "Fiyat": "19",
+    "Tutar": "464"
+  },
+  {
+    "SiparisTarihi": "2021-10-19T02:26:08.14902+03:00",
+    "UrunAd": "Gözleme",
+    "Fiyat": "21",
+    "Tutar": "485"
+  },
+  {
+    "SiparisTarihi": "2021-10-19T02:26:10.8295658+03:00",
+    "UrunAd": "Rus Salatası",
+    "Fiyat": "22",
+    "Tutar": "507"
+  },
+  {
+    "SiparisTarihi": "2021-10-19T02:26:11.1811937+03:00",
+    "UrunAd": "Pazı Kavurma",
+    "Fiyat": "20",
+    "Tutar": "527"
+  },
+  {
+    "SiparisTarihi": "2021-10-19T02:26:11.5987774+03:00",
+    "UrunAd": "Urla Ezme",
+    "Fiyat": "20",
+    "Tutar": "547"
+  },
+  {
+    "SiparisTarihi": "2021-10-19T02:26:12.061206+03:00",
+    "UrunAd": "Haydari",
+    "Fiyat": "21",
+    "Tutar": "568"
+  },
+  {
+    "SiparisTarihi": "2021-10-19T02:26:12.749334+03:00",
+    "UrunAd": "Zeytinyağlı Yaprak Sarma",
+    "Fiyat": "17",
+    "Tutar": "585"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T03:08:19.2333269+03:00",
+    "UrunAd": "The House Burger",
+    "Fiyat": "31",
+    "Tutar": "31"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T03:08:20.0714154+03:00",
+    "UrunAd": "Çıtır Tavuk Burger",
+    "Fiyat": "28",
+    "Tutar": "59"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T03:08:29.1051113+03:00",
+    "UrunAd": "The House Burger",
+    "Fiyat": "31",
+    "Tutar": "90"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T03:08:29.7769567+03:00",
+    "UrunAd": "Klasik Pizza",
+    "Fiyat": "32",
+    "Tutar": "122"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:03:15.8892531+03:00",
+    "UrunAd": "Karışık Mantarlı Pizza",
+    "Fiyat": "31 TL ",
+    "Tutar": "31"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:03:16.3176229+03:00",
+    "UrunAd": "Klasik Pizza",
+    "Fiyat": "27 TL ",
+    "Tutar": "58"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:03:17.1182625+03:00",
+    "UrunAd": "The House Burger",
+    "Fiyat": "45 TL ",
+    "Tutar": "103"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:03:17.4781661+03:00",
+    "UrunAd": "Cıtır Tavuk Burger",
+    "Fiyat": "28 TL ",
+    "Tutar": "131"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:03:18.6534177+03:00",
+    "UrunAd": "Levrek",
+    "Fiyat": "80 TL ",
+    "Tutar": "211"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:03:19.1899838+03:00",
+    "UrunAd": "Mezgit",
+    "Fiyat": "77 TL ",
+    "Tutar": "288"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:03:19.926236+03:00",
+    "UrunAd": "Palamut",
+    "Fiyat": "50 TL ",
+    "Tutar": "338"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:03:21.7094523+03:00",
+    "UrunAd": "The House Burger",
+    "Fiyat": "45 TL ",
+    "Tutar": "383"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:03:24.4379847+03:00",
+    "UrunAd": "Rus Salatası",
+    "Fiyat": "20 TL ",
+    "Tutar": "403"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:03:24.7921204+03:00",
+    "UrunAd": "Zeytinyağlı Yaprak Sarma",
+    "Fiyat": "27 TL ",
+    "Tutar": "430"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:03:25.4460354+03:00",
+    "UrunAd": "Pazı Kavurma",
+    "Fiyat": "15 TL ",
+    "Tutar": "445"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:03:25.9588757+03:00",
+    "UrunAd": "Patlıcan Salatası",
+    "Fiyat": "13 TL ",
+    "Tutar": "458"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:05:47.2224133+03:00",
+    "UrunAd": "Omlet",
+    "Fiyat": "17 TL ",
+    "Tutar": "17"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:05:47.7258282+03:00",
+    "UrunAd": "Kavurmalı Yumurta ",
+    "Fiyat": "37 TL ",
+    "Tutar": "54"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:05:49.2055647+03:00",
+    "UrunAd": "The House Burger",
+    "Fiyat": "45 TL ",
+    "Tutar": "99"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:05:51.3258106+03:00",
+    "UrunAd": "Çikolatalı Pasta",
+    "Fiyat": "45 TL ",
+    "Tutar": "144"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:08:39.2001407+03:00",
+    "UrunAd": "Cıtır Tavuk Burger",
+    "Fiyat": "28 TL ",
+    "Tutar": "28"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:08:39.8938603+03:00",
+    "UrunAd": "Karışık Mantarlı Pizza",
+    "Fiyat": "31 TL ",
+    "Tutar": "59"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:08:40.3736794+03:00",
+    "UrunAd": "Klasik Pizza",
+    "Fiyat": "27 TL ",
+    "Tutar": "86"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:08:41.885365+03:00",
+    "UrunAd": "The House Burger",
+    "Fiyat": "45 TL ",
+    "Tutar": "131"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:08:43.9818879+03:00",
+    "UrunAd": "Rus Salatası",
+    "Fiyat": "20 TL ",
+    "Tutar": "151"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:08:44.34965+03:00",
+    "UrunAd": "Zeytinyağlı Yaprak Sarma",
+    "Fiyat": "27 TL ",
+    "Tutar": "178"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:08:44.8534358+03:00",
+    "UrunAd": "Pazı Kavurma",
+    "Fiyat": "15 TL ",
+    "Tutar": "193"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:33:20.5346059+03:00",
+    "UrunAd": "Uskumru",
+    "Fiyat": "68 TL ",
+    "Tutar": "68"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:33:21.8841674+03:00",
+    "UrunAd": "Palamut",
+    "Fiyat": "50 TL ",
+    "Tutar": "118"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:33:22.5012855+03:00",
+    "UrunAd": "Mezgit",
+    "Fiyat": "77 TL ",
+    "Tutar": "195"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:33:25.2044083+03:00",
+    "UrunAd": "Penne Makarna",
+    "Fiyat": "35 TL ",
+    "Tutar": "230"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:33:25.572823+03:00",
+    "UrunAd": "Klasik Pizza",
+    "Fiyat": "27 TL ",
+    "Tutar": "257"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T09:33:36.053078+03:00",
+    "UrunAd": "Zeytinyağlı Yaprak Sarma",
+    "Fiyat": "27 TL ",
+    "Tutar": "284"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T12:30:26.1439848+03:00",
+    "UrunAd": "Palamut",
+    "Fiyat": "50 TL ",
+    "Tutar": "50"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T12:30:26.791732+03:00",
+    "UrunAd": "Mezgit",
+    "Fiyat": "77 TL ",
+    "Tutar": "127"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T21:40:57.1203196+03:00",
+    "UrunAd": "Omlet",
+    "Fiyat": "17 TL ",
+    "Tutar": "17"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T21:40:57.7211425+03:00",
+    "UrunAd": "Kavurmalı Yumurta ",
+    "Fiyat": "37 TL ",
+    "Tutar": "54"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T21:40:58.0240742+03:00",
+    "UrunAd": "Simit",
+    "Fiyat": "5 TL ",
+    "Tutar": "59"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T23:17:36.5596684+03:00",
+    "UrunAd": "Karışık Mantarlı Pizza",
+    "Fiyat": "31 TL ",
+    "Tutar": "169"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T23:17:37.4399851+03:00",
+    "UrunAd": "The House Burger",
+    "Fiyat": "45 TL ",
+    "Tutar": "214"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T23:17:37.8718214+03:00",
+    "UrunAd": "Cıtır Tavuk Burger",
+    "Fiyat": "28 TL ",
+    "Tutar": "242"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T23:17:38.9999859+03:00",
+    "UrunAd": "Penne Makarna",
+    "Fiyat": "35 TL ",
+    "Tutar": "277"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T23:21:20.542093+03:00",
+    "UrunAd": "Fanta",
+    "Fiyat": "12 TL ",
+    "Tutar": "85"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T23:21:21.1662227+03:00",
+    "UrunAd": "Salep",
+    "Fiyat": "17 TL ",
+    "Tutar": "102"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T23:33:08.2318615+03:00",
+    "UrunAd": "Mezgit",
+    "Fiyat": "77 TL ",
+    "Tutar": "142"
+  },
+  {
+    "SiparisTarihi": "2021-11-18T23:33:08.6007698+03:00",
+    "UrunAd": "Palamut",
+    "Fiyat": "50 TL ",
+    "Tutar": "192"
+  },
+  {
+    "SiparisTarihi": "2021-11-19T08:37:12.2183005+03:00",
+    "UrunAd": "Karışık Mantarlı Pizza",
+    "Fiyat": "31 TL ",
+    "Tutar": "238"
+  },
+  {
+    "SiparisTarihi": "2021-11-19T08:59:00.5792511+03:00",
+    "UrunAd": "Mezgit",
+    "Fiyat": "77 TL ",
+    "Tutar": "77"
+  },
+  {
+    "SiparisTarihi": "2021-11-19T08:59:01.0166069+03:00",
+    "UrunAd": "Levrek",
+    "Fiyat": "80 TL ",
+    "Tutar": "157"
+  },
+  {
+    "SiparisTarihi": "2021-11-19T08:59:01.8724907+03:00",
+    "UrunAd": "Uskumru",
+    "Fiyat": "68 TL ",
+    "Tutar": "225"
+  },
+  {
+    "SiparisTarihi": "2021-11-19T09:24:38.123843+03:00",
+    "UrunAd": "Omlet",
+    "Fiyat": "17 TL ",
+    "Tutar": "212"
+  },
+  {
+    "SiparisTarihi": "2021-11-19T09:24:39.6195636+03:00",
+    "UrunAd": "Simit",
+    "Fiyat": "5 TL ",
+    "Tutar": "217"
+  },
+  {
+    "SiparisTarihi": "2021-11-19T09:25:07.4752729+03:00",
+    "UrunAd": "Mezgit",
+    "Fiyat": "77 TL ",
+    "Tutar": "77"
+  },
+  {
+    "SiparisTarihi": "2021-11-19T09:25:07.9709711+03:00",
+    "UrunAd": "Levrek",
+    "Fiyat": "80 TL ",
+    "Tutar": "157"
+  },
+  {
+    "SiparisTarihi": "2021-11-19T09:25:08.7231887+03:00",
+    "UrunAd": "Palamut",
+    "Fiyat": "50 TL ",
+    "Tutar": "207"
+  },
+  {
+    "SiparisTarihi": "2021-11-19T09:25:10.5548828+03:00",
+    "UrunAd": "Omlet",
+    "Fiyat": "17 TL ",
+    "Tutar": "224"
+  },
+  {
+    "SiparisTarihi": "2021-11-19T09:25:30.3704214+03:00",
+    "UrunAd": "The House Burger",
+    "Fiyat": "45 TL ",
+    "Tutar": "118"
+  },
+  {
+    "SiparisTarihi": "2021-11-19T09:56:36.6673406+03:00",
+    "UrunAd": "Zeytinyağlı Yaprak Sarma",
+    "Fiyat": "27 TL ",
+    "Tutar": "154"
+  }
+]

@@ -11,7 +11,8 @@ namespace CafeAndRestaurant.Lib.Concrete
 {
     public  class Context
     {
-        private static string _path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + $"/Siparis.json";
+        //C:\Users\Lenovo\Desktop\CafeAndRestaurantCheck
+        private static string _path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + $"/CafeAndRestaurantCheck/Siparis.json";
         public static List<SiparisDetay> SiparisDetaylari { get; set; } = new List<SiparisDetay>();
         public static  Dictionary<string, List<Siparis>> SiparisBilgileri1 = new();
 
@@ -35,7 +36,7 @@ namespace CafeAndRestaurant.Lib.Concrete
             }
             else
             {
-                Directory.CreateDirectory( $" / Siparis.json");
+                Directory.CreateDirectory( $"/CafeAndRestaurantCheck/ Siparis.json");
             }
         }
 
