@@ -96,7 +96,7 @@ namespace CafeAndRestaurant.Forms
                             ForeColor = Color.White
                         };
 
-                        btnMasa.Name = $"MASA {i}";
+                        btnMasa.Name = $"{oButton.Text}MASA{i}";
 
                         masaAd = $"Masa{i}";
                         binaAd = item.BinaBolumAdi;
